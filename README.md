@@ -42,7 +42,7 @@ sudo dnf install -y   gstreamer1 gstreamer1-plugins-base   mesa-libEGL mesa-libg
 
 1) Repo klonen:
 ```bash
-git clone https://github.com/<DEIN-FORK>/ChatGPT-electron.git
+git clone https://github.com/schlozybaer/ChatGPT-electron.git
 cd ChatGPT-electron
 ```
 
